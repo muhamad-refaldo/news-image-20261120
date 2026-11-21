@@ -1,8 +1,8 @@
 # Sum up 20 November 2026 world news in one image — v3
 
-![competition](https://make.fun/badge/news-image-20261120.svg)
-![rank](https://make.fun/badge/news-image-20261120/muhamad-refaldo/news-image-20261120/rank.svg)
-![reward](https://make.fun/badge/news-image-20261120/muhamad-refaldo/news-image-20261120/reward.svg)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/muhamad-refaldo/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/muhamad-refaldo/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 A one-page newspaper front page — **THE WORLD TODAY** — summing up Friday
 20 November 2026 in 41 stories: 3 big illustrated heroes, a 10-card
